@@ -1,0 +1,3 @@
+[submodule "Industrial-IoT"]
+	path = Industrial-IoT
+	url = git@github.com:suneetnangia/Industrial-IoT.git
